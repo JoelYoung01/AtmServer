@@ -1,0 +1,38 @@
+services:
+  atm-server:
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      - "42069:25565"
+    environment:
+      # General
+      UID: 1001
+      GID: 1001
+      MEMORY: 16G
+
+      # Server
+      TYPE: AUTO_CURSEFORGE
+      EULA: TRUE
+      VERSION: 1.20.1
+      MOTD: "§f|§a§l Very Neat Server§f |§r\n      ATM9 - v0.2.56"
+      DIFFICULTY: hard
+      ICON: server-image.png
+      SPAWN_PROTECTION: 0
+      EXEC_DIRECTLY: true
+
+      # RCON
+      ENABLE_RCON: true
+      RCON_PORT: 25575
+      RCON_PASSWORD: "password"
+
+      # CurseForge
+      CF_API_KEY: ${CF_API_KEY}
+      CF_SLUG: all-the-mods-9
+      CF_FILENAME_MATCHER: 0.2.56
+
+    volumes:
+      # attach the relative directory 'data' to the container's /data path
+      - ./data:/data
+      # Downloads used for manual mod downloads
+      - ./downloads:/downloads

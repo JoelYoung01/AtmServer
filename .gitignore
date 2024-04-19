@@ -1,0 +1,25 @@
+# Linux User Files
+.bash_history
+.profile
+.local/
+.ssh/
+
+# User Git Config
+.gitconfig
+
+# Logs
+data/logs/
+data/*.log
+data/templog.txt
+
+# Libraries
+data/libraries/
+
+# Version files
+data/versions/
+
+# MC World
+data/world/
+
+# Forge Stuff
+.env
