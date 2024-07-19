@@ -16,22 +16,19 @@ services:
       # Server
       TYPE: AUTO_CURSEFORGE
       EULA: TRUE
-      VERSION: 1.20.1
-      MOTD: "§f|§a§l Very Neat Server§f |§r\n      ATM9 - v0.2.56"
+      MOTD: "§f|§a§l Very Neat Server§f |§r\n      ATM9 - v0.2.61"
       DIFFICULTY: hard
       ICON: server-image.png
       SPAWN_PROTECTION: 0
       EXEC_DIRECTLY: true
 
       # RCON
-      ENABLE_RCON: true
-      RCON_PORT: 25575
-      RCON_PASSWORD: "password"
+      ENABLE_RCON: false
 
       # CurseForge
       CF_API_KEY: ${CF_API_KEY}
       CF_SLUG: all-the-mods-9
-      CF_FILENAME_MATCHER: 0.2.56
+      CF_FILENAME_MATCHER: 0.2.61
 
     volumes:
       # attach the relative directory 'data' to the container's /data path
