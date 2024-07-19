@@ -7,11 +7,7 @@
 	id: "29EFE8220836C79A"
 	images: [
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 6.0d
-			hover: [ ]
 			image: "allthetweaks:block/atm_star_block"
 			rotation: 0.0d
 			width: 6.0d
@@ -19,11 +15,7 @@
 			y: 0.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 8.0d
-			hover: [ ]
 			image: "chipped:block/crying_obsidian/crying_obsidian_scales"
 			order: -1
 			rotation: 0.0d
@@ -32,11 +24,7 @@
 			y: 0.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 8.0d
-			hover: [ ]
 			image: "allthetweaks:block/atm_star_block"
 			order: -2
 			rotation: 45.0d
@@ -45,11 +33,7 @@
 			y: 0.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 9.0d
-			hover: [ ]
 			image: "chipped:block/crying_obsidian/crying_obsidian_scales"
 			order: -3
 			rotation: 45.0d
@@ -58,11 +42,7 @@
 			y: 0.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 6.0d
-			hover: [ ]
 			image: "atm:textures/questpics/mek/sps_cutout.png"
 			rotation: 0.0d
 			width: 7.612612612612613d
@@ -70,11 +50,7 @@
 			y: -5.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 6.0d
-			hover: [ ]
 			image: "mekanism:item/pellet_antimatter"
 			rotation: 0.0d
 			width: 6.0d
@@ -82,11 +58,7 @@
 			y: 0.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 3.0d
-			hover: [ ]
 			image: "evilcraft:block/blood_flow"
 			order: -2
 			rotation: 0.0d
@@ -95,11 +67,7 @@
 			y: -8.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 2.5d
-			hover: [ ]
 			image: "evilcraft:block/blood_infuser_north_off"
 			rotation: 0.0d
 			width: 2.5d
@@ -107,11 +75,7 @@
 			y: -8.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 2.75d
-			hover: [ ]
 			image: "evilcraft:block/hardened_blood"
 			order: -1
 			rotation: 0.0d
@@ -120,38 +84,8 @@
 			y: -8.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "naturesaura:item/gold_powder"
-			order: -1
-			rotation: 0.0d
-			width: 1.0d
-			x: 1.0d
-			y: -9.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "naturesaura:item/gold_powder"
-			order: -1
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.0d
-			y: -9.0d
-		}
-		{
-			click: ""
 			color: 0
-			corner: false
-			dev: false
 			height: 3.0d
-			hover: [ ]
 			image: "occultism:textures/gui/book/pentagram_rose.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -159,11 +93,7 @@
 			y: -8.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 2.0d
-			hover: [ ]
 			image: "occultism:item/advancement/devil_icon"
 			rotation: 0.0d
 			width: 2.0d
@@ -171,11 +101,7 @@
 			y: -8.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 0.5d
-			hover: [ ]
 			image: "occultism:block/chalk_glyph/12"
 			rotation: 0.0d
 			width: 0.5d
@@ -183,11 +109,7 @@
 			y: -7.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 0.5d
-			hover: [ ]
 			image: "occultism:block/chalk_glyph/0"
 			rotation: 0.0d
 			width: 0.5d
@@ -196,11 +118,7 @@
 		}
 		{
 			alpha: 230
-			click: ""
-			corner: false
-			dev: false
 			height: 5.0d
-			hover: [ ]
 			image: "ars_nouveau:item/wilden_tribute"
 			rotation: 0.0d
 			width: 5.4375d
@@ -208,11 +126,7 @@
 			y: -5.5d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 5.0d
-			hover: [ ]
 			image: "allthemodium:item/piglich_heart"
 			rotation: 0.0d
 			width: 5.0d
@@ -220,11 +134,7 @@
 			y: 9.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 5.0d
-			hover: [ ]
 			image: "allthemodium:item/unobtainium_allthemodium_alloy_ingot"
 			rotation: 0.0d
 			width: 5.0d
@@ -232,11 +142,7 @@
 			y: 9.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 2.0d
-			hover: [ ]
 			image: "atm:textures/questpics/chp2.png"
 			rotation: 0.0d
 			width: 11.355263157894736d
@@ -244,11 +150,7 @@
 			y: -15.25d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 4.5d
-			hover: [ ]
 			image: "atm:textures/questpics/chap2/atmstar_title.png"
 			order: 1
 			rotation: 0.0d
@@ -257,11 +159,7 @@
 			y: -13.0d
 		}
 		{
-			click: ""
-			corner: false
-			dev: false
 			height: 5.0d
-			hover: [ ]
 			image: "cataclysm:item/flame_eye"
 			rotation: 0.0d
 			width: 5.0d
@@ -275,15 +173,16 @@
 	quests: [
 		{
 			dependencies: [
-				"6827CD2484040402"
 				"153F111B4CCC850B"
+				"4F28DC3D905DDA3A"
+				"03B12E7ED6B01F9A"
 			]
 			id: "67E154DC24F54854"
 			rewards: [
 				{
 					id: "10C97B39C12475D3"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -330,7 +229,7 @@
 				{
 					id: "06FA9F4A937F0402"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -384,7 +283,7 @@
 				{
 					id: "69D20E0F1A44244F"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -431,7 +330,7 @@
 				{
 					id: "48F65810E60EDC84"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -472,7 +371,7 @@
 				{
 					id: "0C1FE4845CDCE417"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:trident"
 						tag: {
 							Damage: 0
@@ -537,7 +436,7 @@
 				{
 					id: "577307C225AF3E9C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -578,7 +477,7 @@
 				{
 					id: "7367AE25EAF90CCB"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -626,7 +525,7 @@
 				count: 2L
 				id: "1F7626020C21A3E0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "allthemodium:unobtainium_vibranium_alloy_block"
 					tag: {
 						Enchantments: [{
@@ -745,7 +644,7 @@
 			tasks: [{
 				id: "44CFFE38FD3BBED3"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "occultism:stable_wormhole"
 					tag: { }
 				}
@@ -895,7 +794,7 @@
 				{
 					id: "14E98566218C16C2"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -938,7 +837,6 @@
 			description: ["{atm9.quest.chapter2.desc.LDS}"]
 			hide_dependent_lines: true
 			id: "272CB4EDED35C47B"
-			optional: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "321B617668BB4829"
@@ -948,7 +846,7 @@
 			tasks: [{
 				id: "4272471A1AADDC27"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:or"
 					tag: {
 						items: [
@@ -989,7 +887,7 @@
 				count: 2L
 				id: "697A057C9E2E86BC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "powah:battery_nitro"
 					tag: { }
 				}
@@ -1028,7 +926,6 @@
 			description: ["{atm9.quest.chapter2.desc.wireless}"]
 			hide_dependent_lines: true
 			id: "16E4EA08B647E8E0"
-			optional: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "14DB7B6B838E370E"
@@ -1038,7 +935,7 @@
 			tasks: [{
 				id: "3A046374A91F0A2D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:or"
 					tag: {
 						items: [
@@ -1088,7 +985,7 @@
 				{
 					id: "06F40832496CDD9E"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "patchouli:guide_book"
 						tag: {
 							"patchouli:book": "pneumaticcraft:book"
@@ -1141,7 +1038,7 @@
 				{
 					id: "06D1AEF8DADA23BD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:nether_star"
 						tag: {
 							Enchantments: [{ }]
@@ -1190,7 +1087,7 @@
 				{
 					id: "234CAE0F96ED29A7"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "evilcraft:weather_container"
 						tag: {
 							weather: "LIGHTNING"
@@ -1205,72 +1102,8 @@
 				}
 			]
 			title: "{atm9.quest.chapter2.weather}"
-			x: 4.0d
-			y: -6.0d
-		}
-		{
-			dependencies: [
-				"777AEC7C551B7188"
-				"65A9D3648C7B01A4"
-			]
-			description: ["{atm9.quest.chapter2.desc.world_eye}"]
-			hide_dependent_lines: true
-			id: "6827CD2484040402"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "19E5762966691B37"
-				table_id: 4196188979167302596L
-				type: "loot"
-			}]
-			tasks: [{
-				count: 2L
-				id: "4DD1B8B048E4C1B7"
-				item: "naturesaura:chunk_loader"
-				type: "item"
-			}]
-			title: "{atm9.quest.chapter2.world_eye}"
-			x: 0.0d
-			y: -6.5d
-		}
-		{
-			dependencies: ["11B8C5F88DCB3BF5"]
-			description: ["{atm9.quest.chapter2.desc.end}"]
-			hide_dependency_lines: true
-			id: "777AEC7C551B7188"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "48BEFE7F5597D0BE"
-				table_id: 487623848494439020L
-				type: "loot"
-			}]
-			shape: "hexagon"
-			size: 1.5d
-			tasks: [
-				{
-					id: "0FF0A2C2B0ACD366"
-					item: "naturesaura:end_flower"
-					type: "item"
-				}
-				{
-					id: "73035D3A337ECC42"
-					item: "naturesaura:bottle_two_the_rebottling"
-					type: "item"
-				}
-				{
-					id: "2DF5E8F25409E545"
-					item: {
-						Count: 1b
-						id: "naturesaura:aura_bottle"
-						tag: {
-							stored_type: "naturesaura:end"
-						}
-					}
-					type: "item"
-				}
-			]
-			title: "{atm9.quest.chapter2.end}"
-			x: 1.5d
-			y: -7.5d
+			x: 5.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["2435B6D970F48DF8"]
@@ -1285,7 +1118,7 @@
 			tasks: [{
 				id: "66F4491906A5AB8C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "occultism:soul_gem"
 					tag: { }
 				}
@@ -1308,7 +1141,7 @@
 				{
 					id: "3F4169D77B00BC02"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -1352,7 +1185,7 @@
 				{
 					id: "758235727BB06108"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:allthemodium_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -1431,7 +1264,7 @@
 			tasks: [{
 				id: "5F3FEF47C4141704"
 				item: {
-					Count: 1b
+					Count: 1
 					ForgeCaps: {
 						Parent: {
 							Amount: 0
@@ -1452,7 +1285,7 @@
 			}]
 			title: "{atm9.quest.chapter2.flesh}"
 			x: 6.0d
-			y: -4.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["11B8C5F88DCB3BF5"]
@@ -1585,7 +1418,7 @@
 				"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"5D045EF1AB73DF70\"}, \"text\": \"Click here to check out the AllThePower questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "mekanism:creative_energy_cube"
 				tag: {
 					mekData: {
@@ -1618,7 +1451,7 @@
 			tasks: [{
 				id: "3C058B0D358129C8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:or"
 					tag: {
 						items: [
@@ -1725,7 +1558,7 @@
 			dependencies: ["11B8C5F88DCB3BF5"]
 			description: ["{atm9.quest.chapter2.desc.resource_generation}"]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ftbquests:custom_icon"
 				tag: {
 					Icon: "botania:item/overgrowth_seed"
@@ -1785,7 +1618,7 @@
 			tasks: [{
 				id: "2D7A911DC7E15861"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:or"
 					tag: {
 						items: [
@@ -1849,7 +1682,7 @@
 				{
 					id: "65334074F9662481"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "itemfilters:or"
 						tag: {
 							items: [
@@ -2000,82 +1833,6 @@
 			y: 13.0d
 		}
 		{
-			dependencies: ["11B8C5F88DCB3BF5"]
-			description: ["{atm9.quest.chapter2.desc.nature}"]
-			hide_dependency_lines: true
-			icon: "naturesaura:gold_leaf"
-			id: "1DE0769EA393A72A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6B598E09A87A158F"
-					table_id: 487623848494439020L
-					type: "loot"
-				}
-				{
-					id: "12C1E315460E29B6"
-					item: {
-						Count: 1b
-						id: "patchouli:guide_book"
-						tag: {
-							"patchouli:book": "naturesaura:book"
-						}
-					}
-					type: "item"
-				}
-			]
-			size: 1.5d
-			tasks: [
-				{
-					id: "1B09D06A8E9FFDCA"
-					item: "naturesaura:gold_fiber"
-					type: "item"
-				}
-				{
-					id: "2BFF8A71EA171A76"
-					item: "naturesaura:gold_leaf"
-					type: "item"
-				}
-			]
-			title: "{atm9.quest.chapter2.nature}"
-			x: 0.0d
-			y: -9.5d
-		}
-		{
-			dependencies: ["1DE0769EA393A72A"]
-			description: ["{atm9.quest.chapter2.desc.ritual}"]
-			id: "65A9D3648C7B01A4"
-			min_width: 300
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0A934A7D847A78F9"
-				table_id: 487623848494439020L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					count: 8L
-					id: "62063F358673A131"
-					item: "naturesaura:wood_stand"
-					type: "item"
-				}
-				{
-					count: 16L
-					id: "15E3378E8DC7FD01"
-					item: "naturesaura:gold_powder"
-					type: "item"
-				}
-				{
-					id: "0FED082529A46DAE"
-					item: "minecraft:gold_ingot"
-					type: "item"
-				}
-			]
-			title: "{atm9.quest.chapter2.ritual}"
-			x: 0.0d
-			y: -8.0d
-		}
-		{
 			dependencies: ["2543F16043EE2777"]
 			description: ["{atm9.quest.chapter2.desc.summon_wilden}"]
 			id: "5A912903E09F664F"
@@ -2149,14 +1906,14 @@
 			}]
 			title: "{atm9.quest.chapter2.evilcraft}"
 			x: 6.0d
-			y: -6.0d
+			y: -6.75d
 		}
 		{
 			dependencies: ["11B8C5F88DCB3BF5"]
 			description: ["{atm9.quest.chapter2.desc.ancient_pyramid}"]
 			hide_dependency_lines: false
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ftbquests:custom_icon"
 				tag: {
 					Icon: "rechiseled:block/basalt_chiseled_piglin"
@@ -2180,7 +1937,7 @@
 			tasks: [
 				{
 					icon: {
-						Count: 1b
+						Count: 1
 						id: "ftbquests:custom_icon"
 						tag: {
 							Icon: "minecraft:textures/entity_icon/piglin/piglin.png"
@@ -2263,7 +2020,7 @@
 				{
 					id: "77E93511635DA2ED"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "allthemodium:alloy_sword"
 						tag: {
 							Enchantments: [{ }]
@@ -2380,7 +2137,7 @@
 				{
 					id: "3AFD7D64BD115224"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "patchouli:guide_book"
 						tag: {
 							"patchouli:book": "apotheosis:apoth_chronicle"
@@ -2515,7 +2272,7 @@
 			tasks: [{
 				id: "0DD59333451A797F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "pneumaticcraft:micromissiles"
 					tag: {
 						Damage: 0
@@ -2568,7 +2325,7 @@
 			tasks: [{
 				id: "49F657420099FE3B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "immersiveengineering:hammer"
 					tag: {
 						Damage: 0
@@ -2594,7 +2351,7 @@
 				{
 					id: "3908C778F8451988"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "itemfilters:or"
 						tag: {
 							items: [
@@ -2615,7 +2372,7 @@
 				{
 					id: "36E3BB50691AFC71"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "itemfilters:tag"
 						tag: {
 							value: "forge:coal_coke"
@@ -2748,7 +2505,7 @@
 			tasks: [{
 				id: "35A595D6801714C6"
 				item: {
-					Count: 1b
+					Count: 1
 					ForgeCaps: {
 						Parent: {
 							Items: [ ]
@@ -2782,7 +2539,7 @@
 				{
 					id: "49A0BE7FB49B80DC"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "immersiveengineering:blueprint"
 						tag: {
 							blueprint: "molds"
@@ -2793,7 +2550,7 @@
 				{
 					id: "3692C36BE9007C82"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "immersiveengineering:blueprint"
 						tag: {
 							blueprint: "components"
@@ -2999,8 +2756,8 @@
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter2.SG}"
-			x: 5.0d
-			y: -5.0d
+			x: 0.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["11B8C5F88DCB3BF5"]
@@ -3014,7 +2771,7 @@
 			tasks: [{
 				id: "0D368F78760AB4A4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit"
 					tag: {
 						Damage: 0
@@ -3055,7 +2812,7 @@
 				{
 					id: "41BAF5BDC9300E5C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "ironfurnaces:million_furnace"
 						tag: {
 							display: {
@@ -3073,7 +2830,7 @@
 				{
 					id: "5E585E35B88D84FD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "exchangers:end_exchanger"
 						tag: {
 							Damage: 0
@@ -3232,7 +2989,7 @@
 			tasks: [{
 				id: "3D3372C05B445DFA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "forbidden_arcanus:eternal_stella"
 					tag: { }
 				}
@@ -3273,8 +3030,8 @@
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter2.blood}"
-			x: 2.5d
-			y: -6.0d
+			x: 1.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["11B8C5F88DCB3BF5"]
@@ -3345,7 +3102,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "cataclysm:void_forge"
 				tag: {
 					Damage: 0
@@ -3371,7 +3128,7 @@
 				{
 					id: "5C9D993FFFC365FB"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cataclysm:infernal_forge"
 						tag: {
 							Damage: 0
@@ -3393,7 +3150,7 @@
 				{
 					id: "76FA4645607619E7"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cataclysm:void_forge"
 						tag: {
 							Damage: 0
@@ -3405,6 +3162,99 @@
 			title: "{atm9.quest.chapter2.void_forge}"
 			x: 2.5d
 			y: 8.0d
+		}
+		{
+			dependencies: ["61D6C9461F10CCF1"]
+			hide_dependent_lines: true
+			id: "4F28DC3D905DDA3A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37C823D0CF9BB38E"
+				table_id: 4196188979167302596L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2E3084BAD6A2F14B"
+				item: "evilcraft:piercing_vengeance_focus"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["61D6C9461F10CCF1"]
+			hide_dependent_lines: true
+			id: "03B12E7ED6B01F9A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28D09BBF0DA5FFAB"
+				table_id: 5564196992594175882L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0B57A9CFEC9E5319"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Amount: 0
+							FluidName: "minecraft:empty"
+							capacity: 4000
+						}
+					}
+					id: "evilcraft:mace_of_destruction"
+					tag: {
+						Fluid: {
+							Amount: 0
+							FluidName: "minecraft:empty"
+						}
+						capacity: 4000
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "7EA9E1D1890BC4BE"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "61C5E5E6742910D8"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "721E0D1C9071505A"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -10.0d
 		}
 	]
 	title: "{atm9.chapters.6.title}"

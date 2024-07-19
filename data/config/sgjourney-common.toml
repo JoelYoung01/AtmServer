@@ -122,6 +122,8 @@
 			#The energy required to keep the Stargate open after exceeding the maximum open time is multiplied by this number
 			#Range: > 1
 			energy_bypass_multiplier = 100000
+			#If true, the Universe Stargate will rotate faster (Fast full rotation takes 108 ticks, slow full toration takes 162 ticks)
+			universe_fast_rotation = true
 
 	["Stargate Journey Common Config"."Naquadah Generator Config"]
 
