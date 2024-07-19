@@ -1,10 +1,12 @@
 services:
   atm-server:
+    container_name: atm-server
     image: itzg/minecraft-server
     tty: true
     stdin_open: true
     ports:
       - "42069:25565"
+    restart: unless-stopped
     environment:
       # General
       UID: 1001
